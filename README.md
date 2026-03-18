@@ -28,6 +28,9 @@ top-performing products, regional performance, and profit insights.
 2. Focus marketing on Technology in West & East regions
 3. Leverage Q4 seasonal spikes for inventory planning
 
+## 📊 Tableau Dashboard
+[View Live Dashboard](https://public.tableau.com/app/profile/keerthi.ramena/viz/FutureInternsTask1-SalesAnalytics/SuperstoreSalesPerformanceDashboard)
+
 ## 📂 Files
 | File | Description |
 |------|-------------|
